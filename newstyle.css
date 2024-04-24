@@ -1,0 +1,27 @@
+body{
+    background-color: darkseagreen;
+    font-family: inherit;
+}
+.common{
+    background-color: azure;
+    border: 2px solid white;
+    position:absolute
+}
+
+.MyFriend{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+.footer {
+    top: 115px;
+    left: 5px;
+    width: 100px;
+    bottom: 39px;
+}
+
+.becky{
+    color: coral;
+    font-family: fantasy
+}
